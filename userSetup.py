@@ -5,3 +5,7 @@ print sys.path
  
 sys.path.append('D:/Users/Alice/Documents/GitHub/Python101/')
 cmds.evalDeferred('import system.startup')
+
+#import startup as startup
+#reload (startup)
+#print startup
